@@ -1,0 +1,1 @@
+let URL_LOCAL = 'http://testdev.ddns.net:3000';
